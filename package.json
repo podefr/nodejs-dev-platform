@@ -1,0 +1,28 @@
+/**
+ * @license nodejs-dev-platform https://github.com/podefr/nodejs-dev-platform
+ *
+ * The MIT License (MIT)
+ *
+ * Copyright (c) 2014 Olivier Scherrer <pode.fr@gmail.com>
+ */
+
+{
+ "name": "nodejs-as-dev-platform",
+ "description": "How to use node.js as a development platform for your web applications, frameworks and libraries",
+ "version": "0.0.1",
+ "homepage": "https://github.com/podefr/nodejs-dev-platform",
+ "licenses": [{
+  "type":"MIT",
+  "url":"https://raw.github.com/podefr/nodejs-dev-platform/master/LICENSE"
+ }],
+ "author": "Olivier Scherrer <pode.fr@gmail.com>",
+ "keywords": ["nodejs", "framework", "library", "development platform", "build", "release", "test"],
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/podefr/nodejs-dev-platform.git"
+ },
+ "bugs": {
+  "url": "https://github.com/podefr/nodejs-dev-platform/issues"
+ },
+ "private": true
+}
